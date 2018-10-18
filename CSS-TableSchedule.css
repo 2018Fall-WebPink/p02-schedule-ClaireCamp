@@ -1,0 +1,23 @@
+/*
+*Claire Campbell!
+*Due Date
+*Project Name and Description
+*/
+
+/*The universal selector*/
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {}
+table, td, th {border: 1px solid blue;}
+table {border-collapse: collapse;}
+
+thead{background-color: lightcyan;}
+tbody{background-color:antiquewhite}
+tfoot{background-color: lightblue;}
+    
+
